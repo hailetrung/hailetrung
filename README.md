@@ -1,12 +1,12 @@
 👋 Hello there! I'm Hai Le Trung, but you can call me Harry
 
-🚀 I'm a Lead Software Engineer with a passion for creating amazing software solutions and always striving for perfection.
+🚀 I'm a Software Engineer with a passion for creating amazing software solutions and always striving for perfection.
 
 🔧 My toolbox includes:
 
 |Language| Frameworks|
 |---|---|
-|🟩 Javascript|NestJs, AstroJs, Nextjs, Vuejs|
+|🟩 Javascript|ElysiaJs, AstroJs, Nextjs, Bun|
 |☕ Java|Spring Boot|
 |🐍 Python|FastAPI|
 |🔄 CI-CD|Github Actions, CloudBuild|
