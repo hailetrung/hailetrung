@@ -6,7 +6,7 @@
 
 |Language| Frameworks|
 |---|---|
-|🟩 Javascript|ElysiaJs, AstroJs, Nextjs, Bun|
+|🟩 Javascript|NestJs, AstroJs, Nextjs, Deno|
 |☕ Java|Spring Boot|
 |🐍 Python|FastAPI|
 |🔄 CI-CD|Github Actions, CloudBuild|
