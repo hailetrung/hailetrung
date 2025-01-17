@@ -6,10 +6,8 @@
 
 |Language| Frameworks|
 |---|---|
-|🟩 Javascript|NestJs, AstroJs, Nextjs, Deno|
-|☕ Java|Spring Boot|
-|🐍 Python|FastAPI|
-|🔄 CI-CD|Github Actions, CloudBuild|
+|🟩 Javascript|AstroJs, Nextjs, NestJs, Bun, Deno|
+|🔄 CI-CD|Github Actions, CloudBuild, Docker|
 |☁️ Cloud|AWS, GCP|
 |📋 Project Management|ClickUp, Jira, Notion|
 
