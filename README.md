@@ -27,7 +27,7 @@ I'm a passionate full stack developer from Ho Chi Minh City, Vietnam, with over 
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/hailetrung](https://linkedin.com/in/hailetrung)
-- Email: [hailetrung@outlook.com](mailto:hailetrung.work@gmail.com)
+- Email: [hailetrung.work@gmail.com](mailto:hailetrung.work@gmail.com)
 - Website/Portfolio: *Coming soon*
 
 > “Build with purpose, scale with precision.”
