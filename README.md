@@ -16,7 +16,6 @@ I'm a passionate full stack developer from Ho Chi Minh City, Vietnam, with over 
 **Frontend:** Next.js, React.js, JavaScript, TypeScript, TailwindCSS  
 **Backend:** NestJS, Node.js, Express, Python  
 **Cloud & DevOps:** GCP, AWS, Azure, Docker, Kubernetes, CI/CD  
-**AI & Data:** TensorFlow, YOLOv5, Kalman/Particle Filters  
 **Tools:** Git, Jira, Postman, Firebase, MongoDB, PostgreSQL
 
 ## 📈 GitHub Stats
