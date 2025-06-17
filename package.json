@@ -80,8 +80,7 @@
       "esbuild",
       "sharp",
       "unrs-resolver",
-      "utf-8-validate",
-      "@vercel/speed-insights"
+      "utf-8-validate"
     ]
   }
 }
