@@ -98,7 +98,7 @@ export const plugins: Plugin[] = [
       collections: {
         media: true,
         'media-with-prefix': {
-          prefix: 'my-prefix',
+          prefix: 'vercel',
         },
       },
       // Token provided by Vercel once Blob storage is added to your Vercel project
