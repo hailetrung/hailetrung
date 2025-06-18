@@ -20,8 +20,8 @@ I'm a passionate full stack developer from Ho Chi Minh City, Vietnam, with over 
 
 ## 📈 GitHub Stats
 
-![Harry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hailetrung&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailetrung&layout=compact&theme=radical)
+![Harry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hailetrung&show_icons=true&layout=compact&&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hailetrung&show_icons=true&layout=compact&&theme=github_dark)
 
 ## 📫 Let's Connect
 
