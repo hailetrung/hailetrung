@@ -1,0 +1,10 @@
+<svg width="495" height="215" viewBox="0 0 495 215" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitLab activity for Harry Le">
+  <rect x="0.5" y="0.5" width="494" height="214" rx="6" fill="#1c1c27" stroke="#2b2b3a"/>
+  <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+    <path d="M25 22 l4 12 h-8 z" fill="#fc6d26"/>
+    <text x="40" y="34" fill="#fc6d26" font-size="18" font-weight="700">Harry Le — Self-hosted GitLab</text>
+    <text x="25" y="56" fill="#8b8ba7" font-size="12">Private instance · aggregate activity · Apr–Jul 2026</text>
+    <line x1="25" y1="72" x2="470" y2="72" stroke="#2b2b3a"/>
+    <text x="95" y="120" text-anchor="middle" fill="#f0f0f5" font-size="27" font-weight="700">700</text><text x="95" y="143" text-anchor="middle" fill="#8b8ba7" font-size="12">Contributions</text><text x="247" y="120" text-anchor="middle" fill="#f0f0f5" font-size="27" font-weight="700">443</text><text x="247" y="143" text-anchor="middle" fill="#8b8ba7" font-size="12">Pushes</text><text x="400" y="120" text-anchor="middle" fill="#f0f0f5" font-size="27" font-weight="700">92</text><text x="400" y="143" text-anchor="middle" fill="#8b8ba7" font-size="12">Merge Requests</text><text x="95" y="176" text-anchor="middle" fill="#f0f0f5" font-size="27" font-weight="700">11</text><text x="95" y="199" text-anchor="middle" fill="#8b8ba7" font-size="12">Projects</text><text x="247" y="176" text-anchor="middle" fill="#f0f0f5" font-size="27" font-weight="700">44</text><text x="247" y="199" text-anchor="middle" fill="#8b8ba7" font-size="12">Active Days</text><text x="400" y="176" text-anchor="middle" fill="#f0f0f5" font-size="27" font-weight="700">5d</text><text x="400" y="199" text-anchor="middle" fill="#8b8ba7" font-size="12">Current Streak</text>
+  </g>
+</svg>
