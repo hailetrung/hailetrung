@@ -77,12 +77,7 @@ I build software that turns messy, real-world operations into systems that scale
 -->
 <p align="center"><img src="./github-metrics.svg" alt="Harry Le's GitHub Metrics"></p>
 
-<!--
-  SELF-HOSTED GITLAB ACTIVITY:
-  A scheduled job (gitlab_metrics.py) renders your git.vinatech.app activity to
-  `gitlab-metrics.svg` and commits it here. Once that SVG exists, uncomment the line below.
--->
-<!-- <p align="center"><img src="./gitlab-metrics.svg" alt="Harry Le's GitLab Activity"></p> -->
+<p align="center"><img src="./gitlab-metrics.svg" alt="Harry Le's GitLab Activity"></p>
 
 <p align="center">
   <a href="https://github.com/hailetrung"><img src="https://img.shields.io/github/followers/hailetrung?label=Follow&style=social" alt="GitHub followers"></a>
