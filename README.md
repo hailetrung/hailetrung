@@ -68,15 +68,24 @@ I build software that turns messy, real-world operations into systems that scale
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
+
+<!--
+  Rendered by lowlighter/metrics via .github/workflows/metrics.yml and committed
+  as github-metrics.svg (served by GitHub, so it never rate-limits). The image
+  below appears after the workflow's first run.
+-->
+<p align="center"><img src="./github-metrics.svg" alt="Harry Le's GitHub Metrics"></p>
+
+<!--
+  SELF-HOSTED GITLAB ACTIVITY:
+  A scheduled job (gitlab_metrics.py) renders your git.vinatech.app activity to
+  `gitlab-metrics.svg` and commits it here. Once that SVG exists, uncomment the line below.
+-->
+<!-- <p align="center"><img src="./gitlab-metrics.svg" alt="Harry Le's GitLab Activity"></p> -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hailetrung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailetrung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hailetrung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/hailetrung"><img src="https://img.shields.io/github/followers/hailetrung?label=Follow&style=social" alt="GitHub followers"></a>
 </p>
 
 ---
