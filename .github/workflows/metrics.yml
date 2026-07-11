@@ -1,4 +1,4 @@
-# .github/workflows/metrics.yml  —  GitHub profile metrics (dark theme)
+# .github/workflows/metrics.yml  —  GitHub profile metrics (light classic, prebuilt image)
 
 name: Metrics
 on:
@@ -24,17 +24,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
-
-          # --- Dark theme (metrics has no native toggle, so we inject CSS) ---
-          use_prebuilt_image: no
-          extras_css: |
-            body { background: #0d1117 !important; }
-            .container, section, .field, .row, .column, .subtitle, header, footer { background: transparent !important; }
-            h2, .title { color: #f0f6fc !important; }
-            a, a *, .title a { color: #58a6ff !important; }
-            .field, span, p, td, th, li, small, b, strong, div, text, tspan { color: #c9d1d9 !important; }
-            text, tspan { fill: #c9d1d9 !important; }
-            svg { background: #0d1117 !important; }
 
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
